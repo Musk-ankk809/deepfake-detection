@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+deepfake_forensics/
+*.png
+*.jpg
+*.jpeg
