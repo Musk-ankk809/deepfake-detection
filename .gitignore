@@ -26,3 +26,5 @@ deepfake_forensics/
 *.png
 *.jpg
 *.jpeg
+backend/models/
+*.h5
